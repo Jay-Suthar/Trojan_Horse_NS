@@ -1,1 +1,3 @@
-# Trojan_Horse_NS
+# Trojan Horse Network Security Project.
+
+A simple project to showcase the attack of the trojan horse.
